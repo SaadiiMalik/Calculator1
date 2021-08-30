@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn0.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn1.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn2.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn3.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn4.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn5.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn6.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn7.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn8.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn9.xml" value="2.057142857142857" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btn_state.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btnac.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btnchange.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btndel.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btndiv.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btndot.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btnequal.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btnminus.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btnmodule.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btnmul.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/drawable/btnplus.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/mipmap-anydpi-v26/Btn_div.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/mipmap-anydpi-v26/Btn_div_round.xml" value="0.2109375" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/mipmap-anydpi-v26/button_0.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/mipmap-anydpi-v26/button_0_round.xml" value="0.3671875" />
+        <entry key="..\:/Android Studio Projects/Calculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3671875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
