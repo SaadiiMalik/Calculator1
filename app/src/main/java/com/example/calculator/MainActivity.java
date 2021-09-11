@@ -285,30 +285,30 @@ public class MainActivity extends AppCompatActivity {
                     if (textString.length() > 0) {
                         inputTxt.setText(textString.substring(0, textString.length() - 1));
                     }
+                    try {
+                        String CurntText=inputTxt.getText().toString();
+                        String last=String.valueOf(CurntText.charAt(inputTxt.length() - 1)) ;
 
+                        Log.d("LogHere",last);
 
-
-                    String CurntText=inputTxt.getText().toString();
-                    String last=String.valueOf(CurntText.charAt(inputTxt.length() - 1)) ;
-
-                    Log.d("LogHere",last);
-
-                    if (last.equals("-")||last.equals("+")||last.equals("×")||last.equals("÷")||last.equals("%")) {
-                        ToShowNow=false;
-                        outputTxt.setText("");
+                        if (last.equals("-")||last.equals("+")||last.equals("×")||last.equals("÷")||last.equals("%")) {
+                            ToShowNow=false;
+                            outputTxt.setText("");
+                        }
+                        else {
+                            FindResult();
+                        }
+                        if(last.length() < 2){
+                            ToShowNow=false;
+                            outputTxt.setText("");
+                        }
                     }
-                    else {
-                        FindResult();
-                    }
-                    if (last.equals(0)){
-                        outputTxt.setText("");
-                    }
-
-
+                    catch (Exception e){}
 
 
                 }
             });
+
         }
     }
     
@@ -337,4 +337,5 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
 }
